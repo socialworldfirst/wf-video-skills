@@ -1,0 +1,4 @@
+src/
+_guard/
+*.py
+.DS_Store
